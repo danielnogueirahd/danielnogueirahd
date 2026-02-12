@@ -1,7 +1,8 @@
-### OLÁ, Eu sou o Daniel Nogueira!👋
+<h1>OLÁ, Eu sou o Daniel Nogueira!👋</h1>
 
 ---
-👨‍💻 Sobre Mim
+<h2>👨‍💻 Sobre Mim </h2>
+
 Sou Daniel Nogueira, Estagiário na Input Tecnologia e graduando em Desenvolvimento de Softawe Multiplataforma. Meu foco é construir sistemas escaláveis e inteligentes, unindo o poder do Java/Spring com inovações em Visão Computacional e IA.
 
 💼 Atuação: Estgiário na Input Tecnologia.
@@ -33,7 +34,7 @@ Sou Daniel Nogueira, Estagiário na Input Tecnologia e graduando em Desenvolvime
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
 
 
-### 🚀 Soft Skills & Diferenciais
+<h2> 🚀 Soft Skills & Diferenciais </h2>
 
 * **Resolução de Problemas:** Experiência prévia em suporte técnico, com facilidade para investigar erros e encontrar soluções lógicas.
 * **Comunicação Assertiva:** Habilidade desenvolvida no atendimento ao público, facilitando o trabalho em equipe e o entendimento de requisitos.
